@@ -1,0 +1,72 @@
+var movies = [{
+	"genre": "thriller",
+	"image": "img/quietplace.png",
+	"name": "A quiet place",
+	"description": "In this modern horror thriller, a family of four must navigate their lives in silence after mysterious creatures that hunt by sound threaten their survival."
+}, {
+	"genre": "thriller",
+	"image": "img/winchester.png",
+	"name": "Winchester",
+	"description": "Sarah Winchester is a rich widow that, after seeking advice from a medium, begins building an enormous, seemingly never-ending mansion in California."
+},  {
+	"genre": "thriller",
+	"image": "img/summer84.jpg",
+	"name": "Summer of 84",
+	"description": "After suspecting that their police officer neighbor is a serial killer, a group of teenage friends spend their summer spying on him and gathering evidence but as they search deeper things get dangerous."
+},  {
+	"genre": "thriller",
+	"image": "img/orphan.jpg",
+	"name": "Orphan",
+	"description": "Kate and John Coleman decide to adopt a 9-year-old Russian girl, Esther, from the local orphanage. While Kate and John's 5-year-old deaf-mute daughter Max embrace Esther almost immediately, their older son Daniel is less welcoming and rude towards her."
+},  {
+	"genre": "comedy",
+	"image": "img/girls.jpg",
+	"name": "Girls Trip",
+	"description": "When four lifelong friends travel to New Orleans for the annual Essence Festival, sisterhoods are rekindled, wild sides are rediscovered, and there's enough dancing, drinking, brawling, and romancing to make the Big Easy blush."
+},  {
+	"genre": "comedy",
+	"image": "img/borat.jpg",
+	"name": "Borat",
+	"description": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson."
+},  {
+	"genre": "comedy",
+	"image": "img/bigsick.jpg",
+	"name": "The Big Sick",
+	"description": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. Kumail will find himself forced to face her feisty parents, his family's expectations, and his true feelings."
+},  {
+	"genre": "comedy",
+	"image": "img/superbad.jpg",
+	"name": "Superbad",
+	"description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."
+},  {
+	"genre": "drama",
+	"image": "img/12years.jpg",
+	"name": "12 Years a Slave",
+	"description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+},  {
+	"genre": "drama",
+	"image": "img/black-swan.jpg",
+	"name": "Black Swan",
+	"description": "A committed dancer wins the lead role in a production of Tchaikovsky's Swan Lake only to find herself struggling to maintain her sanity."
+}, {
+	"genre": "drama",
+	"image": "img/spotlight.jpg",
+	"name": "Spotlight",
+	"description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+},  {
+	"genre": "drama",
+	"image": "img/hidden.jpg",
+	"name": "Hidden Figures",
+	"description": "The incredible untold story of three brilliant African-American women working at NASA, who were the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit."
+}, {
+	"genre": "action",
+	"image": "img/avengers.jpg",
+	"name": "Avengers: Infinity War",
+	"description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+}, {
+	"genre": "action",
+	"image": "img/solo.jpg",
+	"name": "Solo: a Star Wars Story",
+	"description": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion."
+}
+]
