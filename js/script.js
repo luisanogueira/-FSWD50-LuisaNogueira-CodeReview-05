@@ -1,11 +1,13 @@
 
 for (var i=0; i < movies.length; i++) {
 	document.getElementById('movies').innerHTML += '<div class= "movie col-md-5 col-sm-11 '
-	+movies[i].genre+'"><div class="row"><img class="col-4" src="' 
+	+movies[i].genre+'"><div class="row"><img class="col-4 wow tada" src="' 
 	+ movies[i].image + '"><div class="sideContent col-7"><p class= "name">' + movies[i].name +
 	 '</p><p class="description">' + movies[i].description +
-	 '</p> <button onclick="like('+i+')" class="btn"> Like &#x1F44D </button> <button id="result'+i+'" class="number">0</button> </div></div></div>';
+	 '</p> <button onclick="like('+i+')" class="btn"> Like &#x1F44D </button> <button id="result'+i+'" class="number"> '+
+	 Math.round(Math.random()*100)+' </button> </div></div></div>';
 }
+
 
 function like(i) {
 	var count = $("#result" + i).html();
